@@ -764,12 +764,12 @@ import {
 
 /* ---------------- 1. FIREBASE SETUP ---------------- */
 const firebaseConfig = {
-  apiKey: "AIzaC1wA_94mDuDeChAt3ed2eSeCrEt",
+  apiKey: "AIzaSyAbF7kW98f9fncopyykS5iVOAf79QJmFtM",
   authDomain: "dudechat-3ed2e.firebaseapp.com",
   projectId: "dudechat-3ed2e",
   storageBucket: "dudechat-3ed2e.firebasestorage.app",
   messagingSenderId: "66639217194",
-  appId: "1:66639217194:web:0cf476903e1a8fd38c6d4a"
+  appId: "1:66639217194:web:b9c97273a0f979cb943953"
 };
 const firebaseApp = initializeApp(firebaseConfig);
 const auth = getAuth(firebaseApp);
