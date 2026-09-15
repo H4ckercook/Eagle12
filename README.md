@@ -764,7 +764,7 @@ import {
 
 /* ---------------- 1. FIREBASE SETUP ---------------- */
 const firebaseConfig = {
-  apiKey: "AIzaSyAbF7kW98f9fncopyykS5iVOAf79QJmFtM",
+  apiKey: "",
   authDomain: "dudechat-3ed2e.firebaseapp.com",
   projectId: "dudechat-3ed2e",
   storageBucket: "dudechat-3ed2e.firebasestorage.app",
